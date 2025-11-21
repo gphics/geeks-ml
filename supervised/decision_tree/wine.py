@@ -12,7 +12,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
-
+import matplotlib.pyplot as plt
 
 # importing data
 file_path = "../../data/wine/winequality-red.csv"
@@ -56,3 +56,6 @@ print(tree_cr)
 print("logit")
 print(logit_acc)
 print(logit_cr)
+
+
+
