@@ -1,0 +1,8 @@
+House Price Dataset
+It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+
+Mall Customer segregation Dataset
+You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly. 
+
+Fraud Dataset
+The target is to detect if a claim application is fraudulent or not - FraudFound_P
